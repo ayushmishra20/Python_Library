@@ -69,9 +69,6 @@ This repository contains Python practice, data notebooks, visualization examples
 - `Sallary prediction model.ipynb`
 - `Untitled.ipynb`
 
-### NidanAi
-
-- AI project with app code, frontend, data, documentation, and tests
 
 ## Purpose
 
